@@ -1,0 +1,5 @@
+
+    Un frammento di linguaggio Haskell formato da:
+     - identificatori
+     - applicazione 
+     - costrutti "let" e "case"
