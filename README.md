@@ -1,6 +1,6 @@
 # Haskell Laboratory
 
-This is my work for the exam of *Linguaggi di programmazione*. 
-It consist in: 
-> - haskell code for implement some usefull function 
-> - 2 parser and 2 scanner write with *Alex* and *Happy* 
+My works for the exam of *Linguaggi di programmazione* - third year bachelor's cs
+It consists in: 
+> - Implementation of some useful functions for learning Haskell
+> - two parsers and two scanners write with *Alex* and *Happy* 
